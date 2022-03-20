@@ -36,7 +36,3 @@ class Game2048 {
   #arrowDownControl() {}
   #arrowLeftControl() {}
 }
-
-document.addEventListener("keyup", (e) => {
-  console.log(e.key);
-});
